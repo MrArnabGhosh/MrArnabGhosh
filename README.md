@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Ghosh</h1>
-<h2 align="left">Hi 👋! I'm a computer Engineer</h2>
+<h2 align="center">Hi 👋! I'm a computer Engineer</h2>
 <h3 align="center">A passionate Full Stack developer and DevOpes Engineer from India</h3>
 
 
